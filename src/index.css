@@ -11,14 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.one{
-  display: flex;
-  /* margin-left: 250px; */
-  color: rgb(40, 149, 192);
-}
-.two{
-
-}
-.three{
-  margin-left: 150px;
-}
